@@ -49,4 +49,4 @@ def show_score(choice, color, font, size):
     score_rect = score_surface.get_rect()
     game_window.blit(score_surface, score_rect)
 
-def
+# def game_over():
